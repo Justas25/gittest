@@ -1,2 +1,2 @@
 # gittest
-For git learning
+For git learning purpose.
